@@ -33,5 +33,5 @@ Después de trabajar en el sector creativo y de diseño, desarrollé habilidades
 
 ---
 
-> Entre el píxel, la tinta y el bit, ahora, me encuentro creando. 
+> # Entre el píxel, la tinta y el bit, ahora, me encuentro creando. 
 > [seguime en GitHub](https://github.com/FerGimenezRoglia)
