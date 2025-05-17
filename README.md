@@ -1,4 +1,4 @@
-# Hola, soy Fer -> Desarrollador Backend
+# Hola, soy Fer -> Desarrollador Backend (Java & Spring Boot)
 
 Acabo de terminar mi bootcamp de **Java & Spring Framework** en @IT-Academy-BCN.
 
@@ -18,7 +18,7 @@ Después de trabajar en el sector creativo y de diseño, desarrollé habilidades
 ---
 
 ## Proyecto:
-// encantado de que le eches un vistazo
+-> encantado de que le eches un vistazo!
 
 -  **[Almita Virtual Web App](https://github.com/FerGimenezRoglia/AlmitaVirtual_Web_App)**  
   Mi proyecto final del bootcamp: una API RESTful hecha con Java y Spring Boot.
