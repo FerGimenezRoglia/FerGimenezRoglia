@@ -1,4 +1,4 @@
-# Hola, soy Fer _ Desarrollador Backend
+# Hola, soy Fer -> Desarrollador Backend
 
 Acabo de terminar mi bootcamp de **Java & Spring Framework** en @IT-Academy-BCN.
 
@@ -6,7 +6,7 @@ Después de trabajar en el sector creativo y de diseño, desarrollé habilidades
 
 ---
 
-##  Tecnologías con las que trabajo
+##  Tecnologías con las que trabajo:
 
 - **Programación:** Java  
 - **Frameworks:** Spring Boot  
@@ -17,10 +17,11 @@ Después de trabajar en el sector creativo y de diseño, desarrollé habilidades
 
 ---
 
-## Proyectos — encantado de que le eches un vistazo
+## Proyecto:
+encantado de que le eches un vistazo
 
 -  **[Almita Virtual Web App](https://github.com/FerGimenezRoglia/AlmitaVirtual_Web_App)**  
-  Mi proyecto final del bootcamp: una API RESTful hecha con Java y Spring Boot. Todo desde cero, con cariño y café rico.
+  Mi proyecto final del bootcamp: una API RESTful hecha con Java y Spring Boot.
 
 ---
 
@@ -28,7 +29,7 @@ Después de trabajar en el sector creativo y de diseño, desarrollé habilidades
 
 - [LinkedIn](https://www.linkedin.com/in/fergimenezroglia/)
 - [CV](https://drive.google.com/file/d/1oowgTLWH1Ka2bmhYeYJHfRsCNGoQdsdY/view?usp=sharing)
-- [Email]fg.roglia@gmail.com
+- [Email](fg.roglia@gmail.com)
 
 ---
 
