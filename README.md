@@ -6,7 +6,7 @@ Después de trabajar en el sector creativo y de diseño, desarrollé habilidades
 
 ---
 
-> ##  Tecnologías con las que trabajo:
+##  Tecnologías con las que trabajo:
 
 - **Programación:** Java  
 - **Frameworks:** Spring Boot  
