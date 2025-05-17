@@ -1,4 +1,4 @@
-# Hola, soy Fer -> Desarrollador Backend (Java & Spring Boot)
+## Hola, soy Fer → Desarrollador Backend (Java & Spring Boot)
 
 Acabo de terminar mi bootcamp de **Java & Spring Framework** en @IT-Academy-BCN.
 
