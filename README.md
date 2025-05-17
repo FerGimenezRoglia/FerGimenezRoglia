@@ -18,7 +18,7 @@ Después de trabajar en el sector creativo y de diseño, desarrollé habilidades
 ---
 
 ## Proyecto:
-encantado de que le eches un vistazo
+// encantado de que le eches un vistazo
 
 -  **[Almita Virtual Web App](https://github.com/FerGimenezRoglia/AlmitaVirtual_Web_App)**  
   Mi proyecto final del bootcamp: una API RESTful hecha con Java y Spring Boot.
@@ -33,4 +33,5 @@ encantado de que le eches un vistazo
 
 ---
 
-> Entre el píxel, la tinta y el bit, ahora, me encuentro creando.
+> Entre el píxel, la tinta y el bit, ahora, me encuentro creando. 
+> [seguime en GitHub](https://github.com/FerGimenezRoglia)
