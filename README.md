@@ -29,7 +29,7 @@ encantado de que le eches un vistazo
 
 - [LinkedIn](https://www.linkedin.com/in/fergimenezroglia/)
 - [CV](https://drive.google.com/file/d/1oowgTLWH1Ka2bmhYeYJHfRsCNGoQdsdY/view?usp=sharing)
-- [Email](fg.roglia@gmail.com)
+- **Email:** fg.roglia@gmail.com
 
 ---
 
