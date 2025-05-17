@@ -6,7 +6,7 @@ Después de trabajar en el sector creativo y de diseño, desarrollé habilidades
 
 ---
 
-##  Tecnologías con las que trabajo:
+> ##  Tecnologías con las que trabajo:
 
 - **Programación:** Java  
 - **Frameworks:** Spring Boot  
@@ -17,7 +17,7 @@ Después de trabajar en el sector creativo y de diseño, desarrollé habilidades
 
 ---
 
-## Proyecto:
+## Proyectos:
 -> encantado de que le eches un vistazo!
 
 -  **[Almita Virtual Web App](https://github.com/FerGimenezRoglia/AlmitaVirtual_Web_App)**  
