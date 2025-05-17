@@ -17,7 +17,7 @@ Después de trabajar en el sector creativo y de diseño, desarrollé habilidades
 
 ---
 
-## Proyectos — encantado de que les eches un vistazo
+## Proyectos — encantado de que le eches un vistazo
 
 -  **[Almita Virtual Web App](https://github.com/FerGimenezRoglia/AlmitaVirtual_Web_App)**  
   Mi proyecto final del bootcamp: una API RESTful hecha con Java y Spring Boot. Todo desde cero, con cariño y café rico.
@@ -27,8 +27,8 @@ Después de trabajar en el sector creativo y de diseño, desarrollé habilidades
 ## Me podés contactar por acá:
 
 - [LinkedIn](https://www.linkedin.com/in/fergimenezroglia/)
-- [CV](https://github.com/FerGimenezRoglia) *(o el link real que quieras usar)*
-- ✉️ fg.roglia@gmail.com
+- [CV](https://drive.google.com/file/d/1oowgTLWH1Ka2bmhYeYJHfRsCNGoQdsdY/view?usp=sharing)
+- [Email]fg.roglia@gmail.com
 
 ---
 
