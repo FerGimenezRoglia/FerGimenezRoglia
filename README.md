@@ -28,7 +28,7 @@ Después de trabajar en el sector creativo y de diseño, desarrollé habilidades
 ## Me podés contactar por acá:
 
 - [LinkedIn](https://www.linkedin.com/in/fergimenezroglia/)
-- [CV](https://drive.google.com/file/d/1oowgTLWH1Ka2bmhYeYJHfRsCNGoQdsdY/view?usp=sharing)
+- [Currículum](https://drive.google.com/file/d/1oowgTLWH1Ka2bmhYeYJHfRsCNGoQdsdY/view?usp=sharing)
 - **Email:** fg.roglia@gmail.com
 
 ---
