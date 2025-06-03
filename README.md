@@ -1,6 +1,6 @@
 ## Hola, soy Fer → Desarrollador Backend (Java & Spring Boot)
 
-Acabo de terminar mi bootcamp de **Java & Spring Framework** en @IT-Academy-BCN.
+Acabo de terminar mi bootcamp de **Java & Spring Boot** en @IT-Academy-BCN.
 
 Después de trabajar en el sector creativo y de diseño, desarrollé habilidades como el pensamiento analítico y la atención al detalle, que hoy quiero aplicar para crecer profesionalmente y consolidar mi experiencia como desarrollador backend en Java.
 
